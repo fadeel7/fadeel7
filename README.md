@@ -101,7 +101,7 @@ Junior Cloud Engineer or DevOps roles where I can:
 - Learn from experienced engineers
 - Ship reliable systems
 
-Based in Accra, Ghana | Open to remote opportunities
+Based in North Carolina | Open to remote opportunities
 
 ---
 
