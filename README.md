@@ -81,4 +81,3 @@ Always open to conversations about software engineering, architecture, or that b
 Star my repos if you find something useful | Fork them if you want to build on them
 
 </div>
-<meta name="google-site-verification" content="Q-6hBNEUHPyktCqdcRpceQMxE9lg1ARFW3d7QDe5kcE" />
