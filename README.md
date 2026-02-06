@@ -1,24 +1,24 @@
 <div align="center">
 
-#  Hey, I'm FADEEL DARKWA
+# FADEEL DARKWA
 
-### I Build Cloud Solutions That Actually Work
+### Full-Stack Engineer in the Making
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Cloud+Engineer+in+the+Making;AWS+Enthusiast;Automation+Addict;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+End-to-End+Solutions;Code+Craftsman;Always+Learning;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
 ---
 
-##  What I Do
+## About
 
-I'm on a mission to master cloud architecture and DevOps. Right now, I'm deep in the AWS ecosystem, building serverless applications, automating infrastructure, and learning how to make systems that don't break at 3 AM.
+On a mission to become a full-stack engineer who builds complete solutions from database to deployment. Learning by doing, shipping by iterating, and growing through every line of code written.
 
-**The Real Talk:** Started my cloud journey in 2024. Every day I'm either breaking something in AWS, fixing it, documenting it, or building something new. That's how you learn.
+**Current Focus:** Mastering the full spectrum—frontend polish, backend logic, cloud infrastructure, and everything in between.
 
 ---
 
-##  My Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -43,72 +43,35 @@ I'm on a mission to master cloud architecture and DevOps. Right now, I'm deep in
 
 ---
 
-##  Current Projects
+## What I'm Looking For
 
-###  AWS S3 Automated Backup System
-**Event-driven disaster recovery solution**
-
-Built a serverless system that automatically backs up files across AWS regions. When you upload to S3, Lambda kicks in, copies everything to a backup bucket in another region, and shoots you an email. No servers, no manual work, just automation.
-
-**Tech:** AWS Lambda • S3 • SNS • Python • CloudWatch
-
-**What I learned:** Event-driven architecture, cross-region replication, IAM policies, and why CloudWatch logs are your best friend.
-
-[Check it out →](https://github.com/fadeel7/aws-s3-automated-backup-system)
-
----
-
-
-##  How I Work
-
-**My approach is simple:**
-
-→ Break things down until they make sense  
-→ Build small, test often, deploy confidently  
-→ Document everything like I'll forget it tomorrow (because I will)  
-→ Automate anything I do more than twice  
-→ Learn in public, fail fast, iterate faster
-
----
-
-##  Why Cloud?
-
-I got into cloud because I'm fascinated by how modern systems scale. The idea that you can write code, deploy it, and have it automatically handle millions of requests without thinking about servers? That's powerful.
-
-Plus, there's something satisfying about building infrastructure that just works, even when things go wrong.
-
----
-
-
-##  Let's Connect
-
-I'm always down to chat about cloud architecture, automation, or how you solved that weird AWS permission error.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://gh.linkedin.com/in/fadeel-darkwa-709b08230)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](fadeeldarkwa19@gmail.com)
-
-</div>
-
----
-
-##  What I'm Looking For
-
-Junior Cloud Engineer or DevOps roles where I can:
-- Build scalable cloud infrastructure
-- Automate all the things
-- Learn from experienced engineers
-- Ship reliable systems
+Full-Stack Engineer or Software Engineer roles where I can:
+- Build complete solutions from front to back
+- Write clean, maintainable code
+- Collaborate with talented teams
+- Ship products that solve real problems
 
 Based in North Carolina | Open to remote opportunities
 
 ---
 
+## Let's Connect
+
+Always open to conversations about software engineering, architecture, or that bug you've been debugging for three hours.
+
 <div align="center">
 
-### "The cloud isn't the future. It's the present. And I'm building in it."
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://gh.linkedin.com/in/fadeel-darkwa-709b08230)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadeeldarkwa19@gmail.com)
 
- Star my repos if you find something useful |  Fork them if you want to build on them
+</div>
+
+---
+
+<div align="center">
+
+### "Code is poetry written in logic."
+
+Star my repos if you find something useful | Fork them if you want to build on them
 
 </div>
