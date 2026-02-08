@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Building+End-to-End+Solutions;Code+Craftsman;Always+Learning;Problem+Solver" alt="Typing SVG" />
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-fadeel7.github.io-2E9EF7?style=for-the-badge)](https://fadeel7.github.io)
+
 </div>
 
 ---
@@ -67,6 +69,7 @@ Always open to conversations about software engineering, architecture, or that b
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fadeel7.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://gh.linkedin.com/in/fadeel-darkwa-709b08230)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadeeldarkwa19@gmail.com)
 
